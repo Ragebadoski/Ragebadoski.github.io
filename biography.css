@@ -1,0 +1,31 @@
+a{padding: 5px;}
+header{display: inline;width: 100%;}
+.car{position: relative; top: 5px;}
+.headnav{position: absolute;left: 300px;top: 70px;width:100%;margin: auto;text-align:}
+i{font-size: 20px;}
+.iconnav{position: absolute; top: 55px;right:100px;}
+h5{color:blue;}
+.text{padding: 10px;text-indent: 2opx;width: 500px;border: 2px solid grey;border-radius: 10px;background-color: aliceblue;}
+.readmore:hover{text-decoration: none;border: 2px dashed red;background-color: cornsilk;}
+.text, #readmore{margin-left: 20px;}
+.farm{position: relative;left: 650px; top: -255px;z-index: 1;}
+.vision{color: orangered;position: absolute;top: -250px;right: 20px;z-index: 2;}
+#activity{background-color: skyblue;position: relative; bottom: 230px;}
+.activupdate{margin-left: 60px;margin-top: 80px;color: red;}
+.news{margin-left: 60px;color: blueviolet;}
+h4{color: blueviolet;}
+.donation{margin-left: 20px;}
+.thanks{margin: auto;position: relative;top: -55px;}
+.blogs{display:inline-flex;}
+.view{color: red;text-align: right;}
+.product-categories{background-color: darkgoldenrod;position: relative;bottom:230px;}
+.category1{margin-left:40%;margin-top: 60px;color:white}
+.category2{margin-right:40px;text-align: center;color: blue;font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.flour{display: inline-flex;}
+#flour{margin:20px 20px}
+#pasta{margin: 20px 20px;}
+#semo{margin: 20px 20px;}
+a{text-decoration: none;}
+.naija{color: white;margin:100px 50px;width: 400px;text-align: center;}
+#naija{display: inline-flex;background-color: skyblue;position:relative;top: -230px;}
+footer{background-color: cornflowerblue;}
